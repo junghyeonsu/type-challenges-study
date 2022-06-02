@@ -8,7 +8,7 @@
 | 2. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [4.pick](./easy/4-pick.md) | 제네릭 제약조건, 맵드 타입 |
 | 3. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [7.readonly](./easy/7-readonly.md) | 맵드 타입, readonly |
 | 4. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [11.Tuple to Object](./easy/11-tuple-to-object.md) | Indexed Access Types |
-| 5. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | - | - |
+| 5. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [14.First of Array](./easy/14-first-of-array.md) | 조건부 타입, infer |
 | 6. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | - | - |
 | - | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | - | - |
 | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |

@@ -26,6 +26,6 @@ infer는 조건문에 쓰이는 타입 중 하나를 이름 붙여서 빼 와서
 
 # 참고
 
-[조건부 타입 + infer](https://ajdkfl6445.gitbook.io/study/typescript/condition-type-+-infer#condition-type)
-[타입스크립트 정의 읽기](https://driip.me/b812974b-3974-46e3-829e-1476b9b30c94)
-[타입스크립트의 Never 타입 완벽 가이드](https://ui.toast.com/weekly-pick/ko_20220323)
+- [조건부 타입 + infer](https://ajdkfl6445.gitbook.io/study/typescript/condition-type-+-infer#condition-type)
+- [타입스크립트 정의 읽기](https://driip.me/b812974b-3974-46e3-829e-1476b9b30c94)
+- [타입스크립트의 Never 타입 완벽 가이드](https://ui.toast.com/weekly-pick/ko_20220323)

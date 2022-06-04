@@ -10,7 +10,7 @@
 | 4. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [11.Tuple to Object](./easy/11-tuple-to-object.md) | Indexed Access Types |
 | 5. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [14.First of Array](./easy/14-first-of-array.md) | 조건부 타입, infer |
 | 6. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [18.Length of tuple](./easy/18-length-of-tuple.md) | readonly, type assertion |
-| 7. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [43.Exclude](./easy/43-exclude.md) | readonly, type assertion |
+| 7. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [43.Exclude](./easy/43-exclude.md) | 조건부 타입 |
 | - | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | - | - |
 | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - |

@@ -13,6 +13,7 @@
 | 7. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [43.Exclude](./easy/43-exclude.md) | 조건부 타입 |
 | 8. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [189.Awaited](./easy/189-awaited.md) |  |
 | 9. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [268.If](./easy/268-If.md) | 조건부 타입 |
+| 10. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [533.Concat](./easy/533-concat.md) | unknown과 any의 차이, extends, spread operator |
 | - | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | - | - |
 | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - |

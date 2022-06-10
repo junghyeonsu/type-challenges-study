@@ -17,7 +17,7 @@
 | 11. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [898.Includes](./easy/898-includes.md) | 조건부 타입, infer, Equal 유틸 함수 |
 | 12. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [3057.Push](./easy/3057-push.md) | extends, spread operator |
 | 13. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [3060.Unshift](./easy/3060-unshift.md) | extends, spread operator |
-| 14. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [3060.Parameters](./easy/3312-parameters.md) | extends, spread operator, infer |
+| 14. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [3312.Parameters](./easy/3312-parameters.md) | extends, spread operator, infer |
 | - | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | - | - |
 | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - |

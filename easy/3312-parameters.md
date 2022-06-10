@@ -23,7 +23,7 @@ type MyParameters<T extends (...args: any[]) => unknown> = T extends (...args: i
 
 ### 2.
 
-그 뒤 타입 선언문 `T extends (...args: infer K) => unknown ? [...K] : unknown` 을 잘 보면 **삼항 연산자**로 되어있는 것을 볼 수 있다.
+그 뒤 타입 선언문 `T extends (...args: infer K) => unknown ? [...K] : unknown` 을 잘 보면 **삼항 연산자** 로 되어있는 것을 볼 수 있다.
 `조건 ? true : false`를 생각하고 보면 쉽게 볼 수 있다.
 우리가 조건을 `extends`로 만든다고 했으니 `T extends (...args: infer K) => unknown`는 바로 알 수 있다.
 `T`가 함수인지 한번 더 확인을 하고있다. 하지만 요기서 중요한 것은 이게 아니라, `...args: infer K`에 있다.
@@ -32,7 +32,7 @@ type MyParameters<T extends (...args: any[]) => unknown> = T extends (...args: i
 
 ### 추가.
 
-이 문제가 사실 **T가 함수인지?**를 묻는 조건이 두 번 들어가서, 맨 처음 조건을 빼도 정답이 된다.
+이 문제가 사실 **T가 함수인지?** 를 묻는 조건이 두 번 들어가서, 맨 처음 조건을 빼도 정답이 된다.
 
 ```ts
 // 맨 처음 조건을 빼도 정답이 된다.

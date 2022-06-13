@@ -20,5 +20,6 @@
 | 14. | <img src="https://img.shields.io/badge/easy-13-7aad0c" alt="13"/> | [3312.Parameters](./easy/3312-parameters.md) | extends, spread operator, infer |
 | 15. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [2.Get Return Type](./medium/2-return-type.md) | extends, infer |
 | 16. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [3.Omit](./medium/3-omit.md) |  |
+| 17. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [8.ReadOnly 2](./medium/8-readonly2.md) |  |
 | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - |

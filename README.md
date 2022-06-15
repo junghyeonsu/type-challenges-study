@@ -22,5 +22,6 @@
 | 16. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [3.Omit](./medium/3-omit.md) |  |
 | 17. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [8.ReadOnly 2](./medium/8-readonly2.md) | extends, never, keyof |
 | 18. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [9.Deep ReadOnly](./medium/9-deep-readonly.md) |  |
+| 19. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [10.Tuple to Union](./medium/10-tuple-to-union.md) | infer |
 <!-- | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - | -->

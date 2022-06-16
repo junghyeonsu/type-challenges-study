@@ -13,7 +13,6 @@ type TupleToUnion2<T extends unknown[]> = T[number];
 
 // 3.
 type TupleToUnion3<T> = T extends [infer F, ... infer REST] ? F | TupleToUnion2<REST> : never
-
 ```
 
 1번과 2번에서 사용하는 `T[number]`은 `T`가 만약 배열로 들어온다면 해당 배열의 요소들을 나열한 것이랑 똑같습니다.

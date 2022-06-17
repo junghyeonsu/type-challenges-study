@@ -24,6 +24,6 @@
 | 18. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [9.Deep ReadOnly](./medium/9-deep-readonly.md) |  |
 | 19. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [10.Tuple to Union](./medium/10-tuple-to-union.md) | infer |
 | 20. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [12.Chainable Options](./medium/12-chainable-options.md) | Record |
-| 21. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [15.Last of Array](./medium/15-last-of-array.md) |  |
+| 21. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [15.Last of Array](./medium/15-last-of-array.md) | infer, spread operator |
 <!-- | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - | -->

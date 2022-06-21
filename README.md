@@ -27,5 +27,6 @@
 | 21. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [15.Last of Array](./medium/15-last-of-array.md) | infer, spread operator |
 | 22. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [16.Pop](./medium/16-pop.md) | infer, spread operator |
 | 23. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [20.Promise.all](./medium/20-promise-all.md) |  |
+| 24. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [62.Type Lookup](./medium/62-type-lookup.md) | extends, infer |
 <!-- | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - | -->

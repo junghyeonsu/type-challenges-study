@@ -29,5 +29,6 @@
 | 23. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [20.Promise.all](./medium/20-promise-all.md) |  |
 | 24. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [62.Type Lookup](./medium/62-type-lookup.md) | extends, infer |
 | 25. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [106.Trim Left](./medium/106-trim-left.md) | extends, infer |
+| 26. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [108.Trim](./medium/108-trim.md) | extends, infer |
 <!-- | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - | -->

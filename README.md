@@ -31,5 +31,6 @@
 | 25. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [106.Trim Left](./medium/106-trim-left.md) | extends, infer |
 | 26. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [108.Trim](./medium/108-trim.md) | extends, infer |
 | 27. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [110.Capitalize](./medium/110-capitalize.md) | extends, infer, Uppercase |
+| 28. | <img src="https://img.shields.io/badge/medium-68-d9901a" alt="68"/> | [110.Capitalize](./medium/116-replace.md) | |
 <!-- | - | <img src="https://img.shields.io/badge/hard-37-de3d37" alt="37"/> | - | - |
 | - | <img src="https://img.shields.io/badge/extreme-14-b11b8d" alt="14"/> | - | - | -->
